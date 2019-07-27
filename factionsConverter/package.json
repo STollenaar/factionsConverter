@@ -1,0 +1,9 @@
+{
+  "name": "factions-converter",
+  "version": "0.0.0",
+  "description": "factionsConverter",
+  "main": "server.js",
+  "author": {
+    "name": "Stephen"
+  }
+}
