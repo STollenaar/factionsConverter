@@ -7,7 +7,7 @@
     "name": "Stephen"
   },
   "dependencies": {
-    "cheerio": "^1.0.0-rc.3",
+    "cheerio": "^1.0.0-rc.12",
     "fs": "0.0.1-security",
     "request": "^2.88.0"
   }
